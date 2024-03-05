@@ -1,3 +1,6 @@
+# Obtained from https://web.archive.org/web/20240302235250/https://codeload.github.com/yuzu-emu/yuzu/zip/refs/heads/master
+If you don't trust that the repo isn't modified, you can download it directly from the above link (but it isn't modified, except for THIS README.md file to add this note)
+
 <!--
 SPDX-FileCopyrightText: 2018 yuzu Emulator Project
 SPDX-License-Identifier: GPL-2.0-or-later
